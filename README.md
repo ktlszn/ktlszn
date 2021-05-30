@@ -1,6 +1,6 @@
 Hi, I’m Kutlu Sezen 👋
 
-I am a Data Analytics student soon to be an Data Analyst. Also have bachelor's degree in Mining Engineering and I have experience in the mining industry for 5 years in Turkey and the Middle East.
+I am a Data Analytics student soon to be an Data Analyst. Also have bachelor's degree in Mining Engineering and I have experience in the mining industry in Turkey and the Middle East.
 
 As an engineer who is working with data and decided to change his career, I thought that I want to continue working with data and prosper in recent technological advancements. I worked in/with various departments during my career and it helped me a lot in seeing things from a different point of view.
 

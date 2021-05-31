@@ -11,7 +11,7 @@ I value lifelong learning and benefit from different skill sets in problem-solvi
 - 🌱 I’m currently learning Python.
 
 Connect me on: 
-[LinkedIn](https://www.linkedin.com/in/kutlusezen/) | [Twitter](https://twitter.com/ktlszn)
+[LinkedIn](https://www.linkedin.com/in/kutlusezen/) | [Twitter](https://twitter.com/ktlszn) | [Tableau](https://public.tableau.com/profile/kutlu#!/)
 
 
 

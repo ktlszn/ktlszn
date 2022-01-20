@@ -7,8 +7,7 @@ As an engineer who was working with data, I decided to direct my career into a n
 I like working in a multicultural environment and learn from different perspectives and solutions of colleagues of diverse backgrounds.
 I value lifelong learning and benefit from different skill sets in problem-solving.
 
-- 👀 I’m interested in mastering SQL, R and MS Excel for my analysis.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in mastering SQL, Python and R for my analysis.
 
 Connect me on: 
 [LinkedIn](https://www.linkedin.com/in/kutlusezen/) | [Twitter](https://twitter.com/ktlszn) | [Tableau](https://public.tableau.com/profile/kutlu#!/)

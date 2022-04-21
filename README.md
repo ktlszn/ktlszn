@@ -1,6 +1,6 @@
 Hi, I’m Kutlu Sezen 👋
 
-I am a Data Analytics student soon to be an Data Analyst. Also an engineer worked in the mining sector in Turkey and the Middle East.
+I am a Data Analyst and an engineer experienced in the resource sector in Turkey and the KSA.
 
 As an engineer who was working with data, I decided to direct my career into a new path and I thought that I want to continue working with data and prosper in recent technological advancements. I worked in/with various departments during my career and it helped me a lot in seeing things from a different point of view.
 

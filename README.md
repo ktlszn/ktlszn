@@ -1,4 +1,4 @@
-Hi, I’m Kutlu Sezen 👋
+Hi, I’m Kutlu 👋
 
 I am a Data Analyst and an engineer experienced in the resource sector in Turkey and the KSA.
 
